@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,2021-03-23,'ishar',CA,Cali,23.33,Wood,20.32,34.32,234.00,4754.88,8030.88,2982.92,7772.12
